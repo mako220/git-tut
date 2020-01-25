@@ -1,3 +1,3 @@
 # git-tut
 
-Hello, fisrt commint locally
+Hello, first commit locally
